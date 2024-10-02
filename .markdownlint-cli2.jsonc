@@ -1,10 +1,6 @@
 {
   "config": {
     "default": true,
-    "MD013": {
-      "line_length": 90,
-      "code_blocks": false,
-      "tables": false
-    }
+    "MD013": false
   }
 }
